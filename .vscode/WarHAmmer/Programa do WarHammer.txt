@@ -1,0 +1,3 @@
+Sobre o programa :
+
+Esse programa foi feito em Python para descrever a construção de como foi jogado, tendendo a ser um método envolvendo o RPG e um jogo de tabuleiro. Então de modo geral, ataques, força_atacante, toughness_inimigo, salvar, danos e armour_penetration. São as variáveis que compõe tudo o que foi calculado, dessa forma, o programa envolve como o jogo foi desenvolvido de maneira ampla, tratando-se das rodadas em que o jogo foi construído.
